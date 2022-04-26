@@ -2,7 +2,7 @@
 
 ### What is this repository for?
 
-- REST API for the Lu'ma database collection tool.
+- REST API boilerplate
 - 0.1.0
 
 ### How do I get set up?
